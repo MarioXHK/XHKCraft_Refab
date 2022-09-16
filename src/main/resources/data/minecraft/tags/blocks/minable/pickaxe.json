@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    "xhkcref:generic_ruby_ore",
+    "xhkcref:generic_deepslate_ruby_ore",
+    "xhkcref:generic_ruby_block",
+    "xhkcref:fragobsidian",
+    "xhkcref:generic_ruby_crystal_block"
+  ]
+}
